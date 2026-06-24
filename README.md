@@ -20,8 +20,8 @@ B.Sc. CS · Scaler School of Technology + BITS Pilani · Bengaluru, India
 Sophomore CS student obsessed with AI systems and the gap between research and real-world use.
 I build full-stack products that actually ship — currently focused on RAG pipelines, RL environments, and agentic tooling.
 
-Done onsite frontend engineering in Cairo, organized a techfest for 2000+ people, and contributed to ML dataset infra for frontier AI labs.
-Long-term goal: work at or build an AI lab. Currently: making things that shouldn't exist yet.
+Done onsite frontend engineering in Cairo, organized a techfest for 2000+ people, and contributed to ML dataset infra.
+Currently: making things that shouldn't exist yet.
 
 ---
 

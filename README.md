@@ -67,7 +67,7 @@ Currently: making things that shouldn't exist yet.
 | project | what it is | stack |
 |---|---|---|
 | 🥗 **[NutriScan](https://github.com/soleilbrulant/NutriScan)** | RAG pipeline for nutritional analysis — scan any food, get AI-powered breakdown with personalized recs | Next.js · Gemini API · RAG · Neon PG · Firebase |
-| 🏪 **UniMart** | Peer-to-peer campus marketplace — founded and built end to end | Next.js · Supabase · Node.js |
+| 🏪 **[UniMart](https://github.com/soleilbrulant/Uni-Mart.git)** | Peer-to-peer campus marketplace — founded and built end to end | Next.js · Supabase · Node.js |
 | 🤖 **LegacyDataEnv** | RL environment and dataset infra for frontier AI labs — MLOps, Docker deployment, HuggingFace integration | Python · Docker · HuggingFace · RL |
 | 📜 **[PactPal](https://github.com/soleilbrulant/PactPal-Frontend)** | AI-powered legal document tool — contract creation and analysis for non-lawyers | Next.js · LLM pipelines · JavaScript |
 

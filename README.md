@@ -70,7 +70,6 @@ Long-term goal: work at or build an AI lab. Currently: making things that should
 | 🏪 **UniMart** | Peer-to-peer campus marketplace — founded and built end to end | Next.js · Supabase · Node.js |
 | 🤖 **LegacyDataEnv** | RL environment and dataset infra for frontier AI labs — MLOps, Docker deployment, HuggingFace integration | Python · Docker · HuggingFace · RL |
 | 📜 **[PactPal](https://github.com/soleilbrulant/PactPal-Frontend)** | AI-powered legal document tool — contract creation and analysis for non-lawyers | Next.js · LLM pipelines · JavaScript |
-| 🔒 **ChakraMail** | Quantum-secure mail system concept | Cryptography · Full-stack |
 
 ---
 

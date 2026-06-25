@@ -4,7 +4,7 @@
 
 **building at the intersection of AI systems and real products**
 
-B.Sc. CS · Scaler School of Technology + BITS Pilani · Bengaluru, India
+B.Sc. CS · BITS Pilani · Bengaluru, India
 
 [![Portfolio](https://img.shields.io/badge/portfolio-aev--shash.vercel.app-black?style=flat-square&logo=vercel&logoColor=white)](https://aev-shash.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shashwat%20Verma-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashwat-verma-s29)
@@ -87,8 +87,7 @@ Led PR and marketing for a 2000+ attendee college techfest.
 
 | | |
 |---|---|
-| **Scaler School of Technology** | B.Sc. Computer Science |
-| **BITS Pilani** | B.Sc. Computer Science (online, parallel degree) · CGPA - 8.05 |
+| **BITS Pilani** | B.Sc. Computer Science · CGPA - 8.05 |
 
 ---
 

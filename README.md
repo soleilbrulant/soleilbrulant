@@ -87,8 +87,8 @@ Led PR and marketing for a 2000+ attendee college techfest.
 
 | | |
 |---|---|
-| **Scaler School of Technology** | B.Sc. Computer Science · CGPA 8.05 |
-| **BITS Pilani** | B.Sc. Computer Science (online, parallel degree) |
+| **Scaler School of Technology** | B.Sc. Computer Science |
+| **BITS Pilani** | B.Sc. Computer Science (online, parallel degree) · CGPA - 8.05 |
 
 ---
 

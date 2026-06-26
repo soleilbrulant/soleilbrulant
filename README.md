@@ -87,7 +87,7 @@ Led PR and marketing for a 2000+ attendee college techfest.
 
 | | |
 |---|---|
-| **BITS Pilani** | B.Sc. Computer Science · CGPA - 8.05 |
+| **BITS Pilani** | B.Sc. Computer Science · CGPA - 8.76 |
 
 ---
 
